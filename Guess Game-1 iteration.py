@@ -12,4 +12,4 @@ elif A < 4:
     print('Higher!!')
 elif A > 4:
     print('Lower!!')
-#DO NOT HAVE to have final else statement!
+#DO NOT HAVE to have final else statement!!!
