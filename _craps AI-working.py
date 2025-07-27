@@ -1,5 +1,4 @@
-"""Python 3.6.1 64bit / Windows 10 64bit / Visual Studio Community 15.6.2 
-simple game of craps v computer. 7 or 11 wins"""
+'''simple game of craps v computer. 7 or 11 wins'''
 from random import choice
 rolls=int(input('Feeling lucky? How many rolls do you wanna take chump? '))
 for roll in range(0,rolls):
@@ -27,3 +26,4 @@ print (data)
 #T=[1,2,3,6]
 #print (sum(T)+sum(S))
 
+#VERIFY COMIT AND UPLOAD
